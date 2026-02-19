@@ -89,5 +89,7 @@ We may update this Privacy Policy from time to time. Updates will be reflected b
 If you have questions about this Privacy Policy, contact:
 
 **Email:** Anjeerstudios@gmail.com
+
 **App Name:** Enwrite
+
 **Developer:** Waqas Malak
