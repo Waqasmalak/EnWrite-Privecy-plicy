@@ -90,6 +90,6 @@ If you have questions about this Privacy Policy, contact:
 
 **Email:** Anjeerstudios@gmail.com
 
-**App Name:** Enwrite
+**App Name:** Enwrite Editor
 
 **Developer:** Waqas Malak
